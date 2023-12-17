@@ -646,7 +646,7 @@ INTRO
 }
 
 .intro .intro-subtitle {
-  padding-top: 10rem;
+  padding-top: 1rem;
   font-size: 1.5rem;
   font-weight: 300;
 }
@@ -764,7 +764,8 @@ SKILLS
 .name-container {
   position: absolute;
   width: 100%;
-  margin-bottom: 1rem;
+  margin: 0 auto;
+  position: relative;
 }
 
 .about-mf .box-shadow-full {

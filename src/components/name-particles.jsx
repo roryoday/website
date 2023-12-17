@@ -85,7 +85,7 @@ class NameParticles extends React.Component {
             radius: 5
           },
           position: {
-            x: 30,
+            x: 17,
             y: 10
           },
           inline: {
